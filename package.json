@@ -1,0 +1,17 @@
+{
+  "name": "atom",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.1"
+  },
+  "resolutions": {
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.9"
+  }
+}
